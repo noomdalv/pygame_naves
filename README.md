@@ -1,3 +1,3 @@
-# pygame_naves
+# pygame test game app
 
-App for learning pygame, its a game, the objective is to destroy ships by tracking canvas coordinates positions(Galaga Style)
+Test app for learning pygame, its a game, the objective is to destroy ships by tracking canvas coordinates positions(Galaga Style)
